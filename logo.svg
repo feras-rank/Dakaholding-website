@@ -1,0 +1,16 @@
+<svg viewBox="0 1 120 62" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daka Holding">
+  <defs><clipPath id="rose"><circle cx="60" cy="18" r="15"/></clipPath></defs>
+  <g clip-path="url(#rose)">
+    <circle cx="60" cy="18" r="15" fill="#D25478"/>
+    <g fill="#D25478" stroke="#FFFFFF" stroke-width="0.55">
+      <circle cx="51" cy="25" r="6"/><circle cx="69" cy="25" r="6"/>
+      <circle cx="52" cy="12" r="7"/><circle cx="68" cy="12" r="7"/>
+    </g>
+    <g fill="#B23A5E" stroke="#FFFFFF" stroke-width="0.55">
+      <circle cx="56.5" cy="19.5" r="5"/><circle cx="63.5" cy="18.8" r="5"/>
+      <circle cx="56" cy="13" r="5"/><circle cx="63" cy="11.5" r="5"/>
+    </g>
+    <circle cx="60" cy="14.5" r="3" fill="#86233F" stroke="#FFFFFF" stroke-width="0.55"/>
+  </g>
+  <path d="M4 60 L20.88 46.5 Q24 44 27.58 45.79 L32.42 48.21 Q36 50 38.5 46.88 L57.5 23.12 Q60 20 62.83 22.83 L77.17 37.17 Q80 40 83.47 38.02 L90.53 33.98 Q94 32 96.47 35.14 L116 60 Z" fill="#1F4D45"/>
+</svg>
