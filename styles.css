@@ -126,6 +126,7 @@ a {
 .wordmark-sub {
   margin-top: 5px;
   font-weight: 500;
+  color: var(--stone);
   font-size: 0.5625rem;
   letter-spacing: 0.42em;
 }
@@ -138,7 +139,7 @@ a {
 
 [lang="ar"] .wordmark-sub {
   margin-top: 6px;
-  font-size: 0.75rem;
+  font-size: 0.6875rem;
   letter-spacing: 0;
 }
 
@@ -193,7 +194,7 @@ a {
   color: var(--mist);
   font-size: 0.8125rem;
   font-weight: 500;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
@@ -313,8 +314,8 @@ a {
 }
 
 .footer-top img {
-  width: 93px;
-  height: 48px;
+  width: 128px;
+  height: 66px;
 }
 
 .footer-contact {
